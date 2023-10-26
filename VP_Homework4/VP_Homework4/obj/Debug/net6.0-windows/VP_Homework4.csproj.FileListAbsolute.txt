@@ -1,0 +1,16 @@
+C:\Visual Programming\VP_Homework4\VP_Homework4\bin\Debug\net6.0-windows\VP_Homework4.exe
+C:\Visual Programming\VP_Homework4\VP_Homework4\bin\Debug\net6.0-windows\VP_Homework4.deps.json
+C:\Visual Programming\VP_Homework4\VP_Homework4\bin\Debug\net6.0-windows\VP_Homework4.runtimeconfig.json
+C:\Visual Programming\VP_Homework4\VP_Homework4\bin\Debug\net6.0-windows\VP_Homework4.dll
+C:\Visual Programming\VP_Homework4\VP_Homework4\bin\Debug\net6.0-windows\VP_Homework4.pdb
+C:\Visual Programming\VP_Homework4\VP_Homework4\obj\Debug\net6.0-windows\VP_Homework4.Form1.resources
+C:\Visual Programming\VP_Homework4\VP_Homework4\obj\Debug\net6.0-windows\VP_Homework4.csproj.GenerateResource.cache
+C:\Visual Programming\VP_Homework4\VP_Homework4\obj\Debug\net6.0-windows\VP_Homework4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Programming\VP_Homework4\VP_Homework4\obj\Debug\net6.0-windows\VP_Homework4.AssemblyInfoInputs.cache
+C:\Visual Programming\VP_Homework4\VP_Homework4\obj\Debug\net6.0-windows\VP_Homework4.AssemblyInfo.cs
+C:\Visual Programming\VP_Homework4\VP_Homework4\obj\Debug\net6.0-windows\VP_Homework4.csproj.CoreCompileInputs.cache
+C:\Visual Programming\VP_Homework4\VP_Homework4\obj\Debug\net6.0-windows\VP_Homework4.dll
+C:\Visual Programming\VP_Homework4\VP_Homework4\obj\Debug\net6.0-windows\refint\VP_Homework4.dll
+C:\Visual Programming\VP_Homework4\VP_Homework4\obj\Debug\net6.0-windows\VP_Homework4.pdb
+C:\Visual Programming\VP_Homework4\VP_Homework4\obj\Debug\net6.0-windows\VP_Homework4.genruntimeconfig.cache
+C:\Visual Programming\VP_Homework4\VP_Homework4\obj\Debug\net6.0-windows\ref\VP_Homework4.dll
